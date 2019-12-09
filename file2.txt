@@ -1,6 +1,0 @@
-#This is just some text
-from datetime import *
-
-print("Hello World")
-
-
